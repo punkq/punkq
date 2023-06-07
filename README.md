@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently a Ph.D. student on CUHK(Shenzhen)
+- 🌱 I’m interested in motion generation, tooth segmentation and 3D detection.
+- 💬 Ask me about mindfulness 
